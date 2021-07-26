@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1627338486 source:c:\users\kiano\desktop\programacion\estanguet.pablorecuppparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
